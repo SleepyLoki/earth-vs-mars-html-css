@@ -1,6 +1,12 @@
-# Local edits at 1:11
+# Earth vs Mars
 
-## Supporting Scrimba
+A simple website showcasing some of the basic html and css skills.
+Website was built from scratch using the _general_instructions.md_ provided by the instructor Scrimba.
+
+To run site, download folder and open *index.html* on a browser.
+
+## Challenge gathered from Scrimba, HTML & CSS Crash Crouse
+### Supporting Scrimba
 
 Since 2017, we have created over 20 free courses on Scrimba, and we're going to
 continue launching free courses. But to pay our bills, we have to charge once
